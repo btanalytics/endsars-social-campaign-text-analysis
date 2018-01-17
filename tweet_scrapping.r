@@ -9,10 +9,10 @@ library(httr)
 
 
 # Set API Keys
-api_key <- "Du4fbrNFuEdZ1DRglQ86KteFV"
-api_secret <- "BhebW8IN81fbKufGFTkkMNvtvj9vkvaUs58IZ4BNrduGufR2UU"
-access_token <- "207512685-pduoLFObOMxDHUdGG59lkagvimBDUD2EZkuU6YPq"
-access_token_secret <- "uhqvsTyzo6hiBPVEO5pJb7aaSUwIdvLedzVE2iBeRzXm9"
+api_key <- "XXXX"
+api_secret <- "XXXXX"
+access_token <- "XXXX"
+access_token_secret <- "XXXXX"
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)
 
 
